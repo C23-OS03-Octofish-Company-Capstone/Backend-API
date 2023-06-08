@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../freshness-eye-prediction-ml-api"
+		},
+		{
+			"path": "../freshness-gills"
+		},
+		{
+			"path": "D:/price-prediction-ml-api/fish-priceprediction/fish-priceprediction"
+		},
+		{
+			"path": "../../satu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
