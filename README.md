@@ -1,4 +1,8 @@
-﻿<h1>API Docs</h1>
+# Architecture Design for Backend Google Cloud Platform
+ ![image](https://github.com/C23-OS03-Octofish-Company-Capstone/Backend-API/assets/82014881/63d672cd-907f-42b9-8beb-dd650d4cb308)
+ 
+ 
+ <h1>API Docs</h1>
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/15710919-02c12464-72c8-4a52-a955-656d1592b021?action=collection%2Ffork&collection-url=entityId%3D15710919-02c12464-72c8-4a52-a955-656d1592b021%26entityType%3Dcollection%26workspaceId%3D47d7d502-7365-4157-97be-2f07577bb417)
 
