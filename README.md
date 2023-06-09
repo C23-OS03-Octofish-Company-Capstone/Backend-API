@@ -1,9 +1,12 @@
 # Architecture Design for Backend Google Cloud Platform
   ![Cloud Architecture](https://github.com/C23-OS03-Octofish-Company-Capstone/Backend-API/assets/82014881/e3e2b7ee-744a-48b8-95b1-bf633d21898f)
 
+---
+
 # Database Architecture
 ![Untitled Diagram drawio (1)](https://github.com/C23-OS03-Octofish-Company-Capstone/Backend-API/assets/82014881/176f0cfa-3501-4639-bd42-81b235d2cc2a)
 
+---
  
  <h1>API Docs</h1>
 
